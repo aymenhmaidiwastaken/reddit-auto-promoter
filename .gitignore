@@ -1,0 +1,13 @@
+.env
+bot.log
+activity_log.json
+bot_history.json
+__pycache__/
+*.pyc
+.claude/
+chrome_profiles/
+fingerprints.json
+debug/
+*.log
+.vscode/
+.idea/

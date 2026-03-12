@@ -1,0 +1,57 @@
+{
+  "mobile_app_development": [
+    {"name": "r/androiddev", "subscribers": "250K", "description": "Android development community", "best_for": "Android app dev discussions, Kotlin, SDK questions"},
+    {"name": "r/iOSProgramming", "subscribers": "120K", "description": "iOS development with Swift/Objective-C", "best_for": "iOS app dev, Swift, Xcode, App Store questions"},
+    {"name": "r/reactnative", "subscribers": "150K", "description": "React Native cross-platform development", "best_for": "Cross-platform app discussions, React Native tips"},
+    {"name": "r/FlutterDev", "subscribers": "130K", "description": "Flutter app development", "best_for": "Flutter/Dart development, cross-platform mobile apps"},
+    {"name": "r/mobiledev", "subscribers": "30K", "description": "General mobile development", "best_for": "Mobile dev best practices, platform comparisons"},
+    {"name": "r/apps", "subscribers": "100K", "description": "App discovery and discussion", "best_for": "App recommendations, mobile app launches"},
+    {"name": "r/SideProject", "subscribers": "200K", "description": "Showcase and discuss side projects", "best_for": "App launches, getting early feedback on MVPs"},
+    {"name": "r/AppBusiness", "subscribers": "15K", "description": "Business side of mobile apps", "best_for": "App monetization, ASO, app marketing strategies"}
+  ],
+  "startups_and_entrepreneurship": [
+    {"name": "r/startups", "subscribers": "1.2M", "description": "Startup founders sharing experiences", "best_for": "MVP development, finding dev partners, startup tech stacks"},
+    {"name": "r/Entrepreneur", "subscribers": "3.5M", "description": "Entrepreneurs sharing ideas and experiences", "best_for": "Building tech products, outsourcing dev, growth strategies"},
+    {"name": "r/SaaS", "subscribers": "80K", "description": "SaaS founders and enthusiasts", "best_for": "SaaS app development, product launches, tech decisions"},
+    {"name": "r/smallbusiness", "subscribers": "1.5M", "description": "Small business owners community", "best_for": "Business apps, digital transformation, getting an app built"},
+    {"name": "r/ProductHunt", "subscribers": "30K", "description": "Product Hunt community", "best_for": "New product launches, early-stage feedback"},
+    {"name": "r/indiehackers", "subscribers": "50K", "description": "Solo founders building products", "best_for": "Building MVPs, tech stack choices, bootstrapping"},
+    {"name": "r/nocode", "subscribers": "60K", "description": "No-code tools and platforms", "best_for": "When to go custom vs no-code, app development decisions"}
+  ],
+  "ai_and_machine_learning": [
+    {"name": "r/artificial", "subscribers": "400K", "description": "AI news and discussion", "best_for": "AI integration, chatbot development, AI product launches"},
+    {"name": "r/MachineLearning", "subscribers": "3M", "description": "Machine learning research and applications", "best_for": "ML model deployment, AI solutions, practical ML"},
+    {"name": "r/ChatGPT", "subscribers": "5M", "description": "ChatGPT and LLM discussions", "best_for": "AI chatbot integration, LLM-powered apps"},
+    {"name": "r/LocalLLaMA", "subscribers": "300K", "description": "Running LLMs locally", "best_for": "On-device AI, local ML integration in apps"},
+    {"name": "r/learnmachinelearning", "subscribers": "300K", "description": "Learning ML from scratch", "best_for": "AI education, ML in mobile apps, practical AI projects"},
+    {"name": "r/OpenAI", "subscribers": "1M", "description": "OpenAI products and API discussion", "best_for": "AI API integration, building AI-powered features"},
+    {"name": "r/computervision", "subscribers": "100K", "description": "Computer vision research and applications", "best_for": "CV features in apps, image recognition, AR"}
+  ],
+  "game_development": [
+    {"name": "r/gamedev", "subscribers": "1.5M", "description": "Game development community", "best_for": "Game dev discussions, studio showcases, dev tools"},
+    {"name": "r/Unity3D", "subscribers": "500K", "description": "Unity game engine development", "best_for": "Unity mobile games, 2D/3D game development"},
+    {"name": "r/unrealengine", "subscribers": "400K", "description": "Unreal Engine development", "best_for": "Unreal mobile games, high-fidelity game dev"},
+    {"name": "r/IndieGaming", "subscribers": "300K", "description": "Indie game showcase and discussion", "best_for": "Indie game launches, game marketing, player feedback"},
+    {"name": "r/gamedesign", "subscribers": "200K", "description": "Game design theory and practice", "best_for": "Game UX, mechanics design, player engagement"},
+    {"name": "r/AndroidGaming", "subscribers": "400K", "description": "Android gaming community", "best_for": "Mobile game launches, Android game recommendations"},
+    {"name": "r/iOSGaming", "subscribers": "200K", "description": "iOS gaming community", "best_for": "iOS game launches, Apple Arcade, mobile game reviews"}
+  ],
+  "ui_ux_design": [
+    {"name": "r/UI_Design", "subscribers": "200K", "description": "UI design inspiration and discussion", "best_for": "App UI showcases, design critiques, UI trends"},
+    {"name": "r/userexperience", "subscribers": "150K", "description": "UX research and design", "best_for": "UX best practices, user research, app usability"},
+    {"name": "r/web_design", "subscribers": "800K", "description": "Web design community", "best_for": "Design portfolios, landing page design, design tools"},
+    {"name": "r/FigmaDesign", "subscribers": "50K", "description": "Figma users and design systems", "best_for": "Figma workflows, design systems, prototyping"},
+    {"name": "r/graphic_design", "subscribers": "3M", "description": "Graphic design community", "best_for": "Branding, visual identity, design showcases"},
+    {"name": "r/design_critiques", "subscribers": "30K", "description": "Get feedback on your designs", "best_for": "Design reviews, portfolio critiques, UI feedback"},
+    {"name": "r/ProductManagement", "subscribers": "100K", "description": "Product management discussions", "best_for": "Product strategy, roadmapping, PM tools and processes"}
+  ],
+  "tech_general": [
+    {"name": "r/technology", "subscribers": "14M", "description": "General technology news", "best_for": "Tech industry trends, product launches, tech discussions"},
+    {"name": "r/programming", "subscribers": "6M", "description": "Programming news and discussion", "best_for": "Dev tools, coding discussions, technical content"},
+    {"name": "r/webdev", "subscribers": "2.2M", "description": "Web development community", "best_for": "Web apps, frameworks, full-stack development"},
+    {"name": "r/software", "subscribers": "100K", "description": "Software recommendations", "best_for": "Software alternatives, tool recommendations"},
+    {"name": "r/learnprogramming", "subscribers": "4.5M", "description": "Beginners learning to code", "best_for": "Educational content, coding resources, beginner app projects"},
+    {"name": "r/cscareerquestions", "subscribers": "900K", "description": "Tech career questions", "best_for": "Tech industry advice, hiring dev teams, freelance vs agency"},
+    {"name": "r/freelance", "subscribers": "200K", "description": "Freelancing tips and discussions", "best_for": "Hiring developers, agency vs freelancer, project management"}
+  ]
+}
