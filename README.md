@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Reddit Auto Promoter</h1>
-
+  
 <p align="center">
   <b>AI-powered Reddit marketing bot that generates human-like comments and posts to promote your product across targeted subreddits.</b>
 </p>
